@@ -1,6 +1,9 @@
 # Android-settings-Framer
 framer project source files for showcase at framerlondon.com
 
+![alt tag](https://d13yacurqjgara.cloudfront.net/users/55119/screenshots/2388227/settings.gif)
+
+
 live demo can be found here
 http://share.framerjs.com/rpkqzw6rq7gp/
 
